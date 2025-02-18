@@ -3,7 +3,7 @@
 This repository contains my first Tableau project, titled Business Summary.
 The project is designed to provide a concise and insightful overview of key business metrics, including sales data, shipment statistics, top performers, and sales locations. 
 
-![screenshot](tb1.png)
+![screenshot](tableau-chocolate.png)
 
 The workbook includes three sheets, each with a distinct focus:
 
