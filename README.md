@@ -22,9 +22,9 @@ Shipment Count: The total number of individual shipments processed.
 This sheet provides a bar chart showcasing the top 10 performers (e.g., sales representatives or employees) based on their contribution to sales.
 The chart allows for quick identification of the highest-performing individuals and their relative performance against one another.
 
-# Sheet 3: Sales Locations (Map)
+# Sheet 3: Sales Locations (Bar Chart)
 
-The final sheet visualizes sales data across different geographical locations using a map. 
+The final sheet visualizes sales data usrepresented using a map. 
 This helps in understanding the distribution of sales activity and identifying high-performing regions or areas where additional focus might be needed.
 
 
