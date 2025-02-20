@@ -1,31 +1,41 @@
-# Business Summary - Tableau Project
+# Chocolate Business Summary - Tableau Project
 
 This repository contains my first Tableau project, titled Business Summary.
 The project is designed to provide a concise and insightful overview of key business metrics, including sales data, shipment statistics, top performers, and sales locations. 
 
-![screenshot](tableau-chocolate.png)
+![screenshot](Dashboard.png)
 
-The workbook includes three sheets, each with a distinct focus:
+# 1️⃣ KPIs
 
-# Sheet 1:
-Sales & Shipment Overview
+Displays key performance indicators:
+✅ Total Sales ($) – Overall revenue from chocolate sales.
+✅ Total Boxes Shipped – Number of boxes sent to customers.
+✅ Total Shipment Count – Number of shipments processed.
+Helps monitor overall business performance at a glance.
 
-This sheet features a tile displaying three critical business metrics:
+# 2️⃣ Line Chart – Monthly Sales Trend
 
-# Amount of Sales:
-Total sales revenue generated within the selected period.
-Boxes Shipped: The total number of boxes shipped to customers.
-Shipment Count: The total number of individual shipments processed.
+Shows sales performance over time.
+Helps identify seasonal trends, peak months, and sales fluctuations.
+Useful for forecasting and planning future inventory & marketing strategies.
 
-# Sheet 2: Top 10 Personals (Bar Chart)
+# 3️⃣ Bar Charts
 
-This sheet provides a bar chart showcasing the top 10 performers (e.g., sales representatives or employees) based on their contribution to sales.
-The chart allows for quick identification of the highest-performing individuals and their relative performance against one another.
+🔹 Sales by Product (with Avg. Sales & Product Margin)
+Compares sales across different chocolate products.
+Includes average sales & product margin to evaluate profitability.
+Helps identify best-selling and low-performing products.
 
-# Sheet 3: Sales Locations (Bar Chart)
+🔹 Top 10 Sales Performers
+Ranks the top 10 salespeople based on revenue.
+Helps track employee performance and recognize top contributors.
 
-The final sheet visualizes sales data usrepresented using a map. 
-This helps in understanding the distribution of sales activity and identifying high-performing regions or areas where additional focus might be needed.
+
+# 4️⃣ Map – Sales by Country
+
+Displays geographical distribution of chocolate sales.
+Identifies top-performing regions and potential market expansion opportunities.
+Useful for regional marketing and logistics planning.
 
 
 Feel free to adjust or expand on any section depending on additional details you'd like to include.
