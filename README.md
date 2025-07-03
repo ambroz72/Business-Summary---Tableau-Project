@@ -3,7 +3,7 @@
 This repository contains my first Tableau project, titled Business Summary.
 The project is designed to provide a concise and insightful overview of key business metrics, including sales data, shipment statistics, top performers, and sales locations. 
 
-![screenshot](Dashboard.png)
+![screenshot](cdb.png)
 
 # 1️⃣ KPIs
 
